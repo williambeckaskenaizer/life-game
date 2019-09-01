@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Life",
+            "request": "launch",
+            "mainClass": "Life"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GameHandler",
+            "request": "launch",
+            "mainClass": "GameHandler"
+        }
+    ]
+}
