@@ -12,5 +12,5 @@ Here are a few screenshots:
 ### Running the Game
 
 The game is written entirely in Java, so ensure Java is installed on your machine.
-Open you machine's CLI, and navigate to the directory titled 'Life Game' 
+Open you machine's CLI, and navigate to the directory titled 'Life Game'. 
 Run the file by entering ``` java -jar Life.jar ```
